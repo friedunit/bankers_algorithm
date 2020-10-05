@@ -46,3 +46,8 @@ Example:
 2,3,1,2,0
 
 This program not only finds the greedy sequence, but finds all possible safe sequences for the given values.
+
+Sample output:
+
+![Screenshot1](https://raw.githubusercontent.com/friedunit/bankers_algorithm/main/Screen_Shots/Screen%20Shot%202020-09-25%20at%208.01.01%20PM.png)
+
