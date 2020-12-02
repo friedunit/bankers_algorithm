@@ -50,4 +50,5 @@ This program not only finds the greedy sequence, but finds all possible safe seq
 Sample output:
 
 ![Screenshot1](https://raw.githubusercontent.com/friedunit/bankers_algorithm/main/Screen_Shots/Screen%20Shot%202020-09-25%20at%208.01.01%20PM.png)
+![Screenshot1](https://raw.githubusercontent.com/friedunit/weatherData/master/ScreenShots/Screen%20Shot%202020-06-11%20at%208.09.17%20PM.png)
 
